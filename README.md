@@ -1,4 +1,4 @@
-# react-native-twilio-programmable-voice
+# react-native-twilio-voice
 
 This is a react-native wrapper around [Twilio Programmable Voice SDK](https://www.twilio.com/voice), which allows your react-native app to make and receive calls.
 
